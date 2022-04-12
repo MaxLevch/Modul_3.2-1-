@@ -8,6 +8,5 @@ namespace Modul_3._2_1_
 {
     internal class Class1
     {
-
     }
 }
